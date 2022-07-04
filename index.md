@@ -41,7 +41,7 @@ No need for that on a welcome page - minimize it to the labels and their intros 
 * Why Webify (*here, I'd include all the highlights that are actually there in the original Welcome page*)
 * Getting started
 * API
-* Etc
+* And more
 
 ### Interactivity
 
@@ -62,12 +62,12 @@ Provide links to
 
 ## Split testing
 
-### Layout & structure
+### Content & structure
 
 Here are the sections I'd include in the document:
 
 1. *Overview* - explain what this document covers and what the user will learn
-2. *About Split Testing* - explain the purpose of this feature, what it's good for, how it's useful for you as a user
+2. *About Split Testing* - explain the purpose of this feature, what it's good for, how it's useful for you as a user. Provide a [diagram illustating how things work](#visuals-&-graphics).
 3. *Prerequisites* / *Before you start* - list what you need to use the feature, e.g.
    * Active Webify account
    * Git configured
@@ -81,14 +81,15 @@ Here are the sections I'd include in the document:
 
    *Example*
 
-#### Set up your branches
+   ```txt
+   #### Set up your branches
 
       1. Deploy from a connected Git repository.
       2. Enable branch deploys.
 
       ***RESULT*** You have a new branch deployed in addition to your production branch.
 
-#### Run the first test
+   #### Run the first test
 
       1. Go to the **Split Testing** tab of [your site dashboard](url) to start your first test.
       2. Choose the branches you want to perform the test with.
@@ -98,6 +99,7 @@ Here are the sections I'd include in the document:
       ***RESULT*** Traffic to your site is split according to the percentages you set.
 
       ***NOTE*** If you change the percentages, you automatically adjust the split of the traffic.
+      ```
 
 7. *Track visitors' behaviours* - provide the user with instructions on how they can use Split Testing to to track visitors across different versions of
 your site. Include three alternative ways:
@@ -110,34 +112,29 @@ your site. Include three alternative ways:
 2. *Learn more* - provide links to any other resources on Spilt Testing, client-side analytics, or the subject of this document.
 3. *Related articles* - provide links to resources covering some related topics that could be of interest to the user.
 
-### Visuals
+### Visuals & graphics
 
-* It's up to UX/UI folks how to make it attractive and user-friendly.
-* They can use photos, images, animations, sky is the limit here.
-* Use thumbnails / cards for the entry points.
-* Provide a banner at the top of the page with the tile and the page mission / synopsis / manifesto or similar.
+* If possible, provide a short video guide for user's actions to be executed in UI.
+* Alternatively to the above, provide screenshots for the same.
+* Provide a diagram (using Mermaid, PlantUML, or similar) illustrating how the feature works, what it does.
 
 ### Language & style
 
+* Be concise and to-the-point, avoid wordy sentences.
 * Use the sentence case for headings and titles.
-* Don't get too formal or official. Use user-friendly expressions or even user's jargon.
 * Use the **bold** font for any UI elements and the `code` font for any code-originated strings.
-
-### Technical content
 
 ### Interactivity
 
-Provide links to
-
-* Any documentation sets that could be of interest to the user
-* Webify social media
-* Webify portal
-* Webify demo / sandbox
-* Webify trial
-* Webify GitHub
+* Include a floating widget / button for users to provide their feedback on the document.
+* Provide links to
+  * Any documentation sets that could be of interest to the user
+  * Webify portal
+  * Webify demo / sandbox
+  * Webify trial
+  * Webify GitHub
 
 ## SEO
 
-* Don't use complex fancy words or phrases.
 * Promote use of key words and expressions related to Split Testing and its functions.
 * Shape all the textual content keeping in mind what the user might use Split Testing for.
