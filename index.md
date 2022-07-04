@@ -7,6 +7,8 @@ author: Dorota Wojcik
 date: 2022-06-29
 ---
 
+# Ideas for improving users' experience of Webify
+
 ## Welcome page
 
 ### Layout & structure
@@ -52,7 +54,7 @@ Provide links to
 * Webify trial
 * Webify GitHub
 
-## SEO
+### SEO
 
 * Don't use complex fancy words or phrases.
 * Promote use of key words and expressions related to Webify and its functions.
