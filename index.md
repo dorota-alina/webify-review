@@ -67,7 +67,7 @@ Provide links to
 Here are the sections I'd include in the document:
 
 1. *Overview* - explain what this document covers and what the user will learn
-2. *About Split Testing* - explain the purpose of this feature, what it's good for, how it's useful for you as a user. Provide a [diagram illustating how things work](#visuals-&-graphics).
+2. *About Split Testing* - explain the purpose of this feature, what it's good for, how it's useful for you as a user. Provide a [diagram illustating how things work](#graphics).
 3. *Prerequisites* / *Before you start* - list what you need to use the feature, e.g.
    * Active Webify account
    * Git configured
@@ -112,13 +112,13 @@ your site. Include three alternative ways:
 2. *Learn more* - provide links to any other resources on Spilt Testing, client-side analytics, or the subject of this document.
 3. *Related articles* - provide links to resources covering some related topics that could be of interest to the user.
 
-### Visuals & graphics
+### Graphics
 
 * If possible, provide a short video guide for user's actions to be executed in UI.
 * Alternatively to the above, provide screenshots for the same.
 * Provide a diagram (using Mermaid, PlantUML, or similar) illustrating how the feature works, what it does.
 
-### Language & style
+### Language
 
 * Be concise and to-the-point, avoid wordy sentences.
 * Use the sentence case for headings and titles.
