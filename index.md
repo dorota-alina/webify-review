@@ -75,7 +75,7 @@ Here are the sections I'd include in the document:
 5. *Limitations*/*Restrictions* - list how the use of the feature is restricted
 6. *Run a branch-based test*
 
-   1. Provide clear steps representing specific actions that the user needs to take to operate the feature,e.g.
+   1. Provide clear steps representing specific actions that the user needs to take to operate the feature.
    2. Whenever possible, provide expected results, either descriptive or as screenshots.
    3. If needed, use *NOTE*s for providing additional information related to specific steps).
 
