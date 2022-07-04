@@ -68,11 +68,11 @@ Here are the sections I'd include in the document:
 
 1. *Overview* - explain what this document covers and what the user will learn
 2. *About Split Testing* - explain the purpose of this feature, what it's good for, and how it's useful for you as a user. Provide a [diagram illustrating how things work](#graphics).
-3. *Prerequisites* / *Before you start* - list what you need to use the feature, e.g.
+3. *Prerequisites*/*Before you start* - list what you need to use the feature, e.g.
    * Active Webify account
    * Git configured
 4. *How it works* - explain what the feature does and how it's done
-5. *Limitations* / *Restrictions* - list how the use of the feature is restricted
+5. *Limitations*/*Restrictions* - list how the use of the feature is restricted
 6. *Run a branch-based test*
 
    1. Provide clear steps representing specific actions that the user needs to take to operate the feature,e.g.
@@ -101,16 +101,15 @@ Here are the sections I'd include in the document:
       ***NOTE*** If you change the percentages, you automatically adjust the split of the traffic.
       ```
 
-7. *Track visitors' behaviors* - provide the user with instructions on how they can use Split Testing to track visitors across different versions of
-your site. Include three alternative ways:
+7. *Track visitors' behaviors* - provide the user with instructions on how they can use Split Testing to track visitors across different versions of your site. Include three alternative ways:
 
    1. Client-side analytics with GA
    2. Client-side analytics with Segment
    3. Client-side analytics with code injection
 
-1. *Follow up* - provide links to docs covering ideas for the next possible actions that the user might want to take.
-2. *Learn more* - provide links to any other resources on Spilt Testing, client-side analytics, or the subject of this document.
-3. *Related articles* - provide links to resources covering some related topics that could be of interest to the user.
+8. *Follow up* - provide links to docs covering ideas for the next possible actions that the user might want to take.
+9. *Learn more* - provide links to any other resources on Spilt Testing, client-side analytics, or the subject of this document.
+10. *Related articles* - provide links to resources covering some related topics that could be of interest to the user.
 
 ### Graphics
 
